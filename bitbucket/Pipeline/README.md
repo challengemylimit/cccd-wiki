@@ -26,18 +26,18 @@ pipelines:
 
 You can open `SSH Keys`
 
-![SSH Keys Menu](https://cccd0.sharepoint.com/:i:/r/sites/ApplicationSupport/Shared%20Documents/General/Bitbucket%20docs/Pipeline/menu-ssh.png?csf=1&web=1&e=AZLOGd)
+![SSH Keys Menu](./menu-ssh.png)
 
 Then enter private/public keys in the sections
 
-![SSH Keys Main](https://cccd0.sharepoint.com/:i:/r/sites/ApplicationSupport/Shared%20Documents/General/Bitbucket%20docs/Pipeline/ssh.png?csf=1&web=1&e=XXmDlB)
+![SSH Keys Main](./ssh.png)
 
 ## Add variables to the repository settings
 
 You can open `Repository variables`
 
-![Variable Menu](https://cccd0.sharepoint.com/:i:/r/sites/ApplicationSupport/Shared%20Documents/General/Bitbucket%20docs/Pipeline/menu-var.png?csf=1&web=1&e=IIA54X)
+![Variable Menu](./menu-var.png)
 
 Then enter private/public keys in the sections
 
-![Variable Main](https://cccd0.sharepoint.com/:i:/r/sites/ApplicationSupport/Shared%20Documents/General/Bitbucket%20docs/Pipeline/ssh.png?csf=1&web=1&e=XXmDlB)
+![Variable Main](./var.png)
